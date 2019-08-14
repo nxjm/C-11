@@ -1,9 +1,11 @@
 # depslib dependency file v1.0
-1563453435 source:c:\users\yan\documents\code\c++11\c\main.cpp
+1565796626 source:c:\users\yan\documents\code\c++11\c\main.cpp
 	"Base.h"
 	"Derived.h"
+	<iostream>
+	<cstring>
 
-1563451964 source:c:\users\yan\documents\code\c++11\c\base.cpp
+1563453659 source:c:\users\yan\documents\code\c++11\c\base.cpp
 	"Base.h"
 
 1563453659 c:\users\yan\documents\code\c++11\c\base.h
